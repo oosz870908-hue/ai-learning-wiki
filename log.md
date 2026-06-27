@@ -10,8 +10,8 @@
 - 创建了 SCHEMA.md, index.md, log.md 及目录结构
 - 联动：~/ai-learning 每日推送任务会自动ingest当天视频
 
-## [2026-06-24] ingest | 首批5条视频字幕（示范）
-- 灌入 raw/transcripts/: BV12HV664Ezy, BV13HY4zfEvW, BV18K7K65EK2, BV1NhjJ6rEZt, BV1mZjm6dEEG
-- 新建概念页: model-distillation, collective-intelligence-orchestration, ai-learning-path, ai-information-sources, ai-compute-shortage
-- 新建实体页: qinghua-jiang-xuezhang, xiaohui-boshi, sakana-ai, andrej-karpathy
-- 共9个wiki页面，已交叉引用，已更新index
+## [2026-06-26] ingest | 第2批5条视频字幕
+- 灌入 raw/transcripts/: BV11tLR6iEEp, BV1CPjZ6CE38, BV1Pujj6FEke, BV1qLj26iE2o, BV1QPjo69Eqv
+- 新建概念页: ai-export-control, ai-assisted-deep-reading, programming-in-ai-era, cowart
+- 新建实体页: claude-tag
+- 共新增5页，总计14个wiki页面，已交叉引用，已更新index
